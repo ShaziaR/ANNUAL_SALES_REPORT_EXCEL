@@ -29,8 +29,7 @@ Step:3:data analysis:
 •	Which channel is contributing to maximum sales?
 •	Highest selling category?
 
-Step:4:data visualization
-Business insights:
+KEY INSIGHTS:
 •	Women are more likely to buy compared to men (64%)
 •	Maharashtra,Karnataka,uttar Pradesh are the top 3 states(34%)
 •	Adult age group (30-49) have done maximum contribution(50%)
