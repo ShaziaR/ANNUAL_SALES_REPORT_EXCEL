@@ -1,6 +1,7 @@
 # ANNUAL_SALES_REPORT_EXCEL
 PROBLEM STATEMENT: Vrinda store wants to create an annual sales report
 For 2023, Vrinda can understand its customers and grow more sales in 2024.
+
 •	Compare sales and orders using a single chart?
 •	Which month got the highest sales and orders?
 •	Who purchased more in 2023?
